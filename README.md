@@ -8,9 +8,9 @@ An implementation of a basic keyword transposition cipher in Python.
 
 ## Usage
 
-- **Initialize** `from pyktc import Cipher; ktc = Cipher('secret')`
+- **Initialize** `from pyktc.cipher import Cipher; ktc = Cipher('secret')`
 - **Encrypt** `ktc.encrypt('CRYPTOLOGY')`
-- **Decrypt** `ktc.decrypt('JHQSU XFXBQ')`
+- **Decrypt** `ktc.decrypt('MNYDX WHWJY')`
 
 ## Limitations
 
